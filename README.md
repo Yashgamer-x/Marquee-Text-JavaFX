@@ -7,7 +7,7 @@ Distributed as a **plain library JAR** and intended to be consumed via **Maven**
 
 ## Requirements
 
-- **Java** 21 or newer  
+- **Java** 25 or newer  
 - **JavaFX** 25 or newer (not bundled)  
 - **Maven** for building and installing the artifact
 
