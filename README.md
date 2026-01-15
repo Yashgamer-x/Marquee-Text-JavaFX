@@ -31,7 +31,7 @@ This will install the dependency to your local maven repository
 <dependency>
   <groupId>org.yashgamerx</groupId>
   <artifactId>marquee_text</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 </dependency>
 
 <dependency>
